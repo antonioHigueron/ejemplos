@@ -5,7 +5,14 @@
     <option name="CUSTOM_SCOPE_NAME" value="All Places" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c818a55-add6-4c3a-83b7-d561c00119e9" name="Changes" comment="ejemplos que si son una sola clase, estan en la raiz, sino se encuentran bajo un package propio" />
+    <list default="true" id="8c818a55-add6-4c3a-83b7-d561c00119e9" name="Changes" comment="ejemplos que si son una sola clase, estan en la raiz, sino se encuentran bajo un package propio">
+      <change afterPath="$PROJECT_DIR$/.idea/ejemplos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hotswap_agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaEjemplos/src/main/java/daw2223/relacion_3_creo/Ejercicio16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +41,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/acaer/Desktop/Nueva carpeta (2)/java_1",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/acaer/Desktop/ejemplos/javaEjemplos",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -68,6 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667133556425</updated>
+      <workItem from="1669571033736" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="ejemplos que si son una sola clase, estan en la raiz, sino se encuentran bajo un package propio">
       <created>1668254501422</created>
@@ -78,6 +88,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
